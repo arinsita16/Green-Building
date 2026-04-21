@@ -17,6 +17,8 @@ The Green Building Scorer is a web-based application that allows architects, dev
 
 ## 3. How to Use the App
 
+<img src="Screenshot 2026-04-21 201403.png" alt="App Screenshot 1" width="100%">
+
 ### Step 1: Project Identification
 Enter the name of your project in the **Project Name** text field at the top of the page. This name will appear in the results summary.
 
@@ -37,6 +39,8 @@ Once selections are made, scroll down to the **Results** section:
     * 🥇 **GOLD (60-79):** High-level innovator.
     * 🥈 **SILVER (40-59):** Meets baseline green standards.
     * 🥉 **CERTIFIED (<40):** Basic environmental compliance.
+
+<img src="Screenshot 2026-04-21 201425.png" alt="App Screenshot 2" width="100%">
 
 ### Step 4: Analyze Category Breakdown
 Review the **Category Breakdown** bar chart. This visual shows the raw score for each individual category, helping you see which area (e.g., Water or Energy) is the weakest link in your sustainability profile.
